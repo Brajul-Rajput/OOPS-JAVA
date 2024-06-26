@@ -8,7 +8,7 @@ public void show(){
 }
 public class Demo2 {
     public static void main(String []args){
-pen pen1=new pen();
+pen pen1=new pen(); /*OBJECT */
 pen1.color="black";
 pen1.type="ball";
 pen1.show();
